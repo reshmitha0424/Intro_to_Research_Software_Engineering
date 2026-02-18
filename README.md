@@ -107,7 +107,7 @@ python ilu_study.py
 deactivate
 ```
 
-### Delete the created virtual environments
+## Delete the created virtual environments
 ```bash
 cd ..
 rm -r repro-venv repro-reqs-venv
